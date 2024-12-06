@@ -4,7 +4,9 @@ A modern iOS weather application built with SwiftUI that provides real-time weat
 
 ## LIGHT MODE
 <img src="screenshots/light.png" alt="Home Screen" width="400"/>
+
 ## DARK MODE
+
 <img src="screenshots/dark.png" alt="Home Screen" width="400"/>
 
 ## Features
