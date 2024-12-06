@@ -3,9 +3,9 @@
 A modern iOS weather application built with SwiftUI that provides real-time weather information with voice search capabilities.
 
 ## LIGHT MODE
-![WeatherUI App Screenshot](screenshots/light.png)
+<img src="screenshots/light.png" alt="Home Screen" width="400"/>
 ## DARK MODE
-![WeatherUI App Screenshot](screenshots/dark.png)
+<img src="screenshots/dark.png" alt="Home Screen" width="400"/>
 
 ## Features
 
