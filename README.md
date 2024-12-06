@@ -1,4 +1,4 @@
-# WeatherUI - iOS Weather App
+# WeatherAssistant - iOS Weather App
 
 A modern iOS weather application built with SwiftUI that provides real-time weather information with voice search capabilities.
 
