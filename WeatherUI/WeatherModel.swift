@@ -115,7 +115,7 @@ class WeatherViewModel: ObservableObject {
     
     var cancellables = Set<AnyCancellable>()
     
-    private let apiKey = "33734b247833e0eb6222bcbfe6e1c671"
+    private let apiKey = Config.weatherApiKey
     private var searchDebounceTimer: Timer?
     
     // Add location suggestions fetch
